@@ -1,6 +1,6 @@
 
 
-*{margin:0;pading:0;}
+*{margin:0;padding:0;}
 body{animation: animatee 15s ;animation-iteration-count: infinite;animation-direction:alternate;
 background-image:url("images/IMG_20170621_221335.JPG");background-repeat:no-repeat;
 background-size:cover;}
